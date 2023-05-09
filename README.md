@@ -1,18 +1,7 @@
-# Twin + Storybook + Styled Components + TypeScript
+# Twin + Storybook + Tailwind + TypeScript + MUI
 
-<p><a href="https://github.com/ben-rogerson/twin.macro#gh-light-mode-only" target="_blank"><img src="../.github/twin-light.svg" alt="Twin" width="60" height="70"></a><a href="https://github.com/ben-rogerson/twin.macro#gh-dark-mode-only" target="_blank"><img src="../.github/twin-dark.svg" alt="Twin" width="60" height="70"></a><a href="https://storybook.js.org/" target="_blank"><img src="../.github/storybook.svg" alt="Storybook" width="50" height="70"></a><a href="https://styled-components.com#gh-light-mode-only" target="_blank"><img src="../.github/styled-components-light.svg" alt="Styled components" width="105" height="70"></a><a href="https://styled-components.com#gh-dark-mode-only" target="_blank"><img src="../.github/styled-components-dark.svg" alt="Styled components" width="105" height="70"></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="../.github/typescript.svg" alt="TypeScript" width="60" height="70"></a></p>
+## Запуск проекта:
 
-## Getting started
-
-Either check out the setup in the attached repository or clone this repository with degit:
-
-```js
-npx degit https://github.com/ben-rogerson/twin.examples/storybook-styled-components-typescript folder-name
-```
-
-## Links
-
-- [Storybook](https://storybook.js.org/)
-- [styled-components](https://styled-components.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Twin](https://github.com/ben-rogerson/twin.macro)
+- Склонировать, установить зависимости
+- npm run start
+  p.s. Может появиться ошибка, что сторибук пустой, нужно сохранить файл AutoComplete.stories.tsx - в причине пока не разобрался
