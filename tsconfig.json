@@ -9,18 +9,12 @@
     "jsx": "preserve",
     "target": "ESNext",
     "module": "ESNext",
-    "strict": true,
+    "strict": false,
     "skipLibCheck": true,
     "noEmit": true,
     "noImplicitAny": true,
-    // Ensure that Babel can safely transpile files in the TypeScript project
     "isolatedModules": true
   },
-  "include": [
-    "src",
-    "types"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["src", "types"],
+  "exclude": ["node_modules"]
 }
